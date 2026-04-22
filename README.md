@@ -19,6 +19,8 @@ Data analyst
 I am a data analyst with extensive experience in the financial sector.
 To expand on the skills I acquired as a financial analyst in analyzing key financial and operational metrics for companies, I have mastered SQL, Python, and visualization tools.
 
+⚡ 2026 Goals: dive into data analysis with a team of professionals
+
 Languages and tools
 ------
 SQL, Python, PostgreSQL, Pandas, Matplotlib, Seaborn, DataLens, A/B testing, ad hoc tasks, data preprocessing, exploratory data analysis, statistical data analysis.
